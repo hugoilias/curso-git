@@ -1,0 +1,104 @@
+commit c2026e1a2b048d244fb38f029447481fb922d2bc
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Wed Jan 10 20:44:55 2024 -0600
+
+    Agregando 2 parrafos
+
+commit 3cc2673e044356a85841ecac9de53fb234ea55ae
+Merge: f7d24b8 e586901
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Wed Jan 10 20:42:44 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit f7d24b8a06607bcd35ef0f1c7f04adc3ca9c5364
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Wed Jan 10 20:26:04 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit e586901668e70fc428471e685536f5d7e79c99f8
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Wed Jan 10 20:26:04 2024 -0600
+
+    Agregando las estaciones del año
+
+commit ebab14f5a684f49b92749dda49d81e58144bc1d7
+Merge: a5e6dc5 dc98683
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 14:48:23 2024 -0600
+
+    Resolviendo conflicto merge main/html en el documento indx.html
+
+commit dc98683bedcee9909799acf2fd880c0a9ec2b5a2
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 14:41:27 2024 -0600
+
+    Agregando index.js al index.html
+
+commit a5e6dc5167d7f4e2700e5dd978d4832415d8ddde
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 14:38:59 2024 -0600
+
+    Cambios en el index.html
+
+commit ca1fba52b6486bb2093cd96225a2746407efbba2
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 14:37:11 2024 -0600
+
+    Agregar style.css al index.html
+
+commit 753e7b3c9b75da0b04d401074f94e165ddfc2ebf
+Merge: 6cbcfb3 373d661
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 14:22:52 2024 -0600
+
+    Merge branch 'jss'
+
+commit 373d661d9586183786e66a34139770023806bd20
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 14:18:26 2024 -0600
+
+    Creando index.js
+
+commit 6cbcfb3cdd7312cc403dd5529ff4f622adef0b36
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 14:12:53 2024 -0600
+
+    Creando style.css
+
+commit bc1afd36ede05502f2250b6e356456e483fc9e54
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 14:08:51 2024 -0600
+
+    Cerando index.html
+
+commit ae7fcd7a58c012936dfa66a0653701f3bd6da07b
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 13:52:16 2024 -0600
+
+    Ignorando los archivos .exe
+
+commit d24aa0cc4527f5d24dd292cda0063cf13369934b
+Author: hugoilias <70919789+hugoilias@users.noreply.github.com>
+Date:   Sun Jan 7 12:40:35 2024 -0600
+
+    Creando licencia del repositorio
+
+commit 6dae4c4c6c0e18543d1cb8a57c6779b7f33d841a
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sun Jan 7 12:35:01 2024 -0600
+
+    Agregando contenido
+
+commit f664dfbdcb68d353808c320d81683f3e14a9869d
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sat Jan 6 19:42:26 2024 -0600
+
+    Agregando contenido inicail al README
+
+commit 10833325c98e95ae37e055bfc666dcd0918484ea
+Author: Hugo Lopez <hugolo9@hotmail.com>
+Date:   Sat Jan 6 19:37:42 2024 -0600
+
+    Primer commit
